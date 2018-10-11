@@ -176,4 +176,7 @@ C:\Users\Irene\Documents\GitHub\MVCDevOps\bin\System.Web.WebPages.Razor.xml
 C:\Users\Irene\Documents\GitHub\MVCDevOps\bin\System.Web.Optimization.xml
 C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.dll
 C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.pdb
-C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.csprojResolveAssemblyReference.cache
+C:\Users\Irene\Documents\GitHub\MVCDevOps\bin\MVCDevOps.dll.config
+C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.csprojAssemblyReference.cache
+C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.csproj.CopyComplete
