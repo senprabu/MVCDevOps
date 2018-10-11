@@ -13,6 +13,7 @@ using MVCDevOps.Models;
 namespace MVCDevOps.Controllers
 {
     //testing
+//testing2
     [Authorize]
     public class AccountController : Controller
     {
