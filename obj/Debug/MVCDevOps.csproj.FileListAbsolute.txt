@@ -80,3 +80,5 @@ c:\users\recdepadmin\documents\visual studio 2015\Projects\MVCDevOps\MVCDevOps\b
 c:\users\recdepadmin\documents\visual studio 2015\Projects\MVCDevOps\MVCDevOps\obj\Debug\MVCDevOps.csprojResolveAssemblyReference.cache
 c:\users\recdepadmin\documents\visual studio 2015\Projects\MVCDevOps\MVCDevOps\obj\Debug\MVCDevOps.dll
 c:\users\recdepadmin\documents\visual studio 2015\Projects\MVCDevOps\MVCDevOps\obj\Debug\MVCDevOps.pdb
+C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.dll
+C:\Users\Irene\Documents\GitHub\MVCDevOps\obj\Debug\MVCDevOps.pdb
